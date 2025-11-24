@@ -64,4 +64,6 @@ class m_user
 
         return mysqli_query($koneksi->koneksi, $sql);
     }
+
+    function hitung() {}
 }

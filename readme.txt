@@ -1,7 +1,7 @@
 login admin :
-username :
-pass :
+username : admin
+pass : admin
 
 login user :
-username :
-pass :
+username : user
+pass : user

@@ -9,6 +9,13 @@
 
 <body>
     <h1>Halaman Hitung</h1>
+
+    <form action="">
+        <input type="text" name="" id="">
+        <input type="text" name="" id="">
+        <input type="text" name="" id="">
+        <input type="text" name="" id="">
+    </form>
 </body>
 
 </html>
